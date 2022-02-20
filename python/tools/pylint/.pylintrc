@@ -1,0 +1,8 @@
+invalid-name
+missing-module-docstring
+missing-class-docstring
+missing-function-docstring
+line-too-long
+import-error
+no-name-in-module
+parse-error
